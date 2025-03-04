@@ -15,7 +15,7 @@ setuptools.setup(
     description="A public github-hosted python package for test, with dependency.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.ibm.com/SiddharthMutkekar/public-hello",
+    url="https://github.com/siddharthmutkekar/public-hello",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",

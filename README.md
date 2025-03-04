@@ -9,7 +9,7 @@ This is a public, github-hosted python package for test.
 Simply run :
 
 ```console
-pip install git+https://github.ibm.com/SiddharthMutkekar/public-hello.git
+pip install git+https://github.com/siddharthmutkekar/public-hello.git
 ```
 
 ## Usage
